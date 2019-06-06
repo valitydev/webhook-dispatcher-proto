@@ -6,12 +6,12 @@ namespace erlang webhook_dispatcher
 typedef string ID
 
 /**
- * Отметка во времени согласно RFC 3339.
+ * Timestamp RFC 3339.
  *
- * Строка должна содержать дату и время в UTC в следующем формате:
+ * Format:
  * `2016-03-22T06:12:27Z`.
  */
 typedef string Timestamp
 
-/** Идентификатор некоторого события */
+/** Event id */
 typedef i64 EventID
