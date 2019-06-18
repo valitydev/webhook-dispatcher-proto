@@ -9,7 +9,7 @@ include "base.thrift"
 
 typedef string URL
 
-struct Webhook {
+struct WebhookMessage {
 
     1: required base.ID                 source_id
 
