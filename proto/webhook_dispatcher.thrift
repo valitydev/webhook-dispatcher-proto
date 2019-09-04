@@ -29,4 +29,6 @@ struct WebhookMessage {
 
     9: required binary                  request_body
 
+    10: optional base.Count             retry_count
+
 }

@@ -18,3 +18,6 @@ typedef i64 EventID
 
 /** Hook id */
 typedef i64 WebHookID
+
+/** Hook id */
+typedef i64 Count
