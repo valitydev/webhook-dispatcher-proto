@@ -17,7 +17,7 @@ typedef string Timestamp
 typedef i64 EventID
 
 /** Hook id */
-typedef i64 WebHookID
+typedef i64 WebhookID
 
 /** Hook id */
 typedef i64 Count
