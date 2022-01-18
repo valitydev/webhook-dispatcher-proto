@@ -1,4 +1,4 @@
-namespace java com.rbkmoney.webhook.dispatcher
+namespace java dev.vality.webhook.dispatcher
 namespace erlang webhook_dispatcher
 
 include "base.thrift"
