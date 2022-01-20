@@ -1,5 +1,5 @@
 
-namespace java com.rbkmoney.webhook.dispatcher.base
+namespace java dev.vality.webhook.dispatcher.base
 namespace erlang webhook_dispatcher
 
 /** Base identification */
